@@ -1,2 +1,2 @@
-# Isaieva_HW1
+# goit-markup-hw-01
 HW-1
